@@ -30,3 +30,4 @@ Kitty Kolumna is an award-winning investigative journalist. Kitty started her ca
 * Professional voiceovers
 * Leadership skills
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
