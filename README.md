@@ -25,7 +25,7 @@ Kitty Kolumna is an award-winning investigative journalist. Kitty started her ca
 
 ### Skills
     * Investigative Research
- 	* Online Journalism
- 	* TV Journalism
- 	* Professional voiceovers
-  	* Leadership skills
+    * Online Journalism
+    * TV Journalism
+    * Professional voiceovers
+    * Leadership skills
