@@ -18,12 +18,12 @@ Kitty Kolumna is an award-winning investigative journalist. Kitty started her ca
   * 2008-2010: catdistrict newspaper
 	Local journalist for politics and economy
 
-## Education
+### Education
 * 2004-2007: Bachelor’s degree “Political Science”
 * 2007-2009: Master’s degree “Journalism”
 * 2010-2011: diploma in TV and radio journalism, professional voiceovers
 
-## Skills
+### Skills
   * Investigative Research
   * Online Journalism
   * TV Journalism
