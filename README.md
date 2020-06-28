@@ -1,8 +1,8 @@
 
-## Kitty Kolumna
+# Kitty Kolumna
 The animal journalist
 
-# Contact details
+## Contact details
 	# Address: Cats Street 11, 67978 Catsland
 	# ☎ +43664 3580 771 
 	# @ kitty.kolumna@catzine.at
